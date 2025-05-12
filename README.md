@@ -1,2 +1,2 @@
 # LPWSUpdater
-You can update your phyton scripts easily.
+You can update your python scripts easily.
